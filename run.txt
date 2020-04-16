@@ -1,0 +1,4 @@
+python human_activity_reco_deque.py --model resnet-34_kinetics.onnx --classes action_recognition_kinetics.txt --input example_activities.mp4
+
+
+cd edu/python/projects/human-activity-recognition
